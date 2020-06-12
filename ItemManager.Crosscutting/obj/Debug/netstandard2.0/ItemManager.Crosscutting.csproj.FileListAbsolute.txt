@@ -1,0 +1,5 @@
+C:\git\matt-repository\ItemManager.Crosscutting\bin\Debug\netstandard2.0\ItemManager.Crosscutting.deps.json
+C:\git\matt-repository\ItemManager.Crosscutting\bin\Debug\netstandard2.0\ItemManager.Crosscutting.dll
+C:\git\matt-repository\ItemManager.Crosscutting\obj\Debug\netstandard2.0\ItemManager.Crosscutting.csprojAssemblyReference.cache
+C:\git\matt-repository\ItemManager.Crosscutting\obj\Debug\netstandard2.0\ItemManager.Crosscutting.AssemblyInfoInputs.cache
+C:\git\matt-repository\ItemManager.Crosscutting\obj\Debug\netstandard2.0\ItemManager.Crosscutting.AssemblyInfo.cs
